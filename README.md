@@ -1,6 +1,6 @@
 **Project Title: Exercise Classification using ResNet50 with PyTorch**
 
-![Project Demo](demo_image.jpg)
+![Project Demo](https://github.com/SyedAffan10/Workout-Classification-Using-ResNet50/blob/main/Demo_Image.PNG)
 
 **Overview:**
 This project focuses on exercise classification using the ResNet50 architecture implemented in PyTorch. The primary objective is to classify exercise videos into two categories, enabling users to identify and categorize exercises accurately. The project utilizes an open-source dataset sourced from Kaggle, which will be provided in the repository. Additionally, a Streamlit application is created to allow users to upload exercise images for classification, with predictions displayed upon image upload completion.
@@ -41,9 +41,6 @@ This project focuses on exercise classification using the ResNet50 architecture 
 
 **Dataset:**
 - The exercise classification dataset used in this project will be provided in the repository. It contains images belonging to two distinct exercise categories.
-
-**Demo:**
-- ![Demo Image](demo_image.jpg)
 
 **Note:**
 - Ensure all necessary Python packages are installed before executing the Streamlit application.
