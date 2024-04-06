@@ -41,6 +41,8 @@ This project focuses on exercise classification using the ResNet50 architecture 
 
 **Dataset:**
 - The exercise classification dataset used in this project will be provided in the repository. It contains images belonging to two distinct exercise categories.
+- [Link Text](https://www.kaggle.com/datasets/hasyimabdillah/workoutexercises-images?select=barbell+biceps+curl)
+
 
 **Note:**
 - Ensure all necessary Python packages are installed before executing the Streamlit application.
